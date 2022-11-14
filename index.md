@@ -9,3 +9,5 @@ This is the info for project 1.
 This is the info for project 2.
 
 https://gonwokay96.github.io/
+
+(Readme with more info) [https://gonwokay96.github.io/ReadMe.html]
