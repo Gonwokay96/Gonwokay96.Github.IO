@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
 title: dwahl7349
 description: GitHub Pages example for promoting a project
 github_username: Gonwokay96
