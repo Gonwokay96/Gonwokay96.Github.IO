@@ -1,8 +1,9 @@
 # Gonwokay96.Github.IO
 
-#Project 1 
+#Dungeon Dragon
 
-This is the info for project 1.
+This is my text adventure project. I had a lot of fun making it. Enjoy!
+[Dungeon Dragon Project](https://github.com/Gonwokay96/Dungeon_Dragon_Dwah)
 
 #Project 2
 
