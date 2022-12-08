@@ -1,14 +1,12 @@
 # Gonwokay96.Github.IO
+# Gonwokay96.Github.IO
 
-#Dungeon Dragon
+#Party Reservation
 
-This is my text adventure project. I had a lot of fun making it. Enjoy!
-[Dungeon Dragon Project](https://github.com/Gonwokay96/Dungeon_Dragon_Dwah)
+This is a project that I worked on in class. this project was completed by myself and other
+group members. The purpose of the project was to create a program that would allow the user
+to create a reservation and input the number of tables and chairs that would be needed. 
+Upon completion of their reservation they would be responsible for entering a drop down list of
+discounts that would help to lower the price. Follow the link to take a look at the program!
+[Gonwokay96/class-project] (https://github.com/Gonwokay96/class-project)
 
-#Project 2
-
-This is the info for project 2.
-
-https://gonwokay96.github.io/
-
-Readme with more info https://gonwokay96.github.io/ReadMe.md
